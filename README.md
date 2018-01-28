@@ -20,7 +20,7 @@ You will need to be using one of our [supported browsers](https://help.medium.co
 
 #### Have more questions?
 
-Just follow the Medium-com support page about [how to write a post](Have more questions?).
+Just follow the Medium-com support page about [how to write a post](https://help.medium.com/hc/en-us/articles/225168768-Write-post).
 
 ### Download Medium Apps
 
